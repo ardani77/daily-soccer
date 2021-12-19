@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ic_schedule"
+        android:icon="@drawable/schedule"
+        android:title="@string/matches"/>
+    <item
+        android:id="@+id/ic_live"
+        android:icon="@drawable/livescore"
+        android:title="@string/live_score"/>
+    <item
+        android:id="@+id/ic_league"
+        android:icon="@drawable/league"
+        android:title="@string/league"/>
+</menu>
