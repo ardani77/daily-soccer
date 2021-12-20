@@ -29,19 +29,20 @@
                     android:id="@+id/flagView"
                     android:layout_width="24dp"
                     android:layout_height="24dp"
+                    android:layout_gravity="center"
                     android:layout_marginStart="20dp"
                     android:layout_marginTop="5dp"
-                    android:layout_marginBottom="5dp" />
+                    android:layout_marginBottom="5dp"
+                    android:foregroundGravity="center" />
 
                 <TextView
                     android:id="@+id/countryName"
-                    android:layout_width="wrap_content"
+                    android:layout_width="100dp"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_vertical"
                     android:layout_marginStart="5dp"
                     android:layout_marginTop="5dp"
                     android:layout_marginBottom="5dp"
-                    android:layout_weight="1"
                     android:text="TextView" />
 
                 <TextView
@@ -64,7 +65,8 @@
                     android:layout_marginBottom="5dp"
                     android:layout_weight="1"
                     android:gravity="right"
-                    android:text="TextView" />
+                    android:text="TextView"
+                    android:textStyle="bold" />
 
             </LinearLayout>
 
@@ -89,12 +91,13 @@
 
                     <TextView
                         android:id="@+id/localteam"
-                        android:layout_width="wrap_content"
+                        android:layout_width="100dp"
                         android:layout_height="wrap_content"
                         android:layout_marginStart="5dp"
                         android:layout_weight="1"
                         android:gravity="left"
-                        android:text="TextView" />
+                        android:text="TextView"
+                        android:textStyle="bold" />
 
                     <LinearLayout
                         android:layout_width="wrap_content"
@@ -104,7 +107,7 @@
 
                         <TextView
                             android:id="@+id/localteamscore"
-                            android:layout_width="wrap_content"
+                            android:layout_width="15dp"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:gravity="center"
@@ -120,7 +123,7 @@
 
                         <TextView
                             android:id="@+id/visitorteamscore"
-                            android:layout_width="wrap_content"
+                            android:layout_width="15dp"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:gravity="center"
@@ -129,11 +132,12 @@
 
                     <TextView
                         android:id="@+id/visitorteam"
-                        android:layout_width="wrap_content"
+                        android:layout_width="100dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
                         android:gravity="right"
-                        android:text="TextView" />
+                        android:text="TextView"
+                        android:textStyle="bold" />
 
                 </LinearLayout>
 
