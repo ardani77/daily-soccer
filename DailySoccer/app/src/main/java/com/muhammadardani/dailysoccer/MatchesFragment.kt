@@ -13,11 +13,14 @@ import com.muhammadardani.dailysoccer.data.MatchesAdapter
 import com.muhammadardani.dailysoccer.data.api.RetroInstance
 import com.muhammadardani.dailysoccer.data.api.SoccerApi
 import com.muhammadardani.dailysoccer.data.response.Match
+import com.muhammadardani.dailysoccer.data.response.MatchItem
 import kotlinx.android.synthetic.main.fragment_matches.*
 import kotlinx.android.synthetic.main.fragment_matches.view.*
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
+import java.text.SimpleDateFormat
+import java.util.*
 
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -48,28 +51,38 @@ class MatchesFragment : Fragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
-        savedInstanceState: Bundle?
+        savedInstanceState: Bundle?,
     ): View? {
         // Inflate the layout for this fragment
         val view = inflater.inflate(R.layout.fragment_matches, container, false)
         matchDay = view.matchDay
         list_match = view.matchList
+        val c = Calendar.getInstance()
+        val year = c.get(Calendar.YEAR)
+        val month = c.get(Calendar.MONTH)
+        val day = c.get(Calendar.DAY_OF_MONTH)
+        val sdf = day.toString()+"."+month.toString()+"."+year.toString()
+        Log.d(TAG, sdf)
+
         val retro = RetroInstance().getInstance().create(SoccerApi::class.java)
-        retro.getMatch().enqueue(object : Callback<Match> {
+        retro.getMatchToday(sdf).enqueue(object : Callback<Match> {
             override fun onResponse(call: Call<Match>, response: Response<Match>) {
                 val responseBody = response.body()
-                adapter = MatchesAdapter(responseBody!!, activity!!)
+                val sortedJson = responseBody!!.sortedWith(compareBy({it.comp_id}))
+                adapter = MatchesAdapter(sortedJson, activity!!)
                 list_match.adapter = adapter
-                Log.d(TAG, responseBody.toString())
+                val weekday_name = SimpleDateFormat("EEEE", Locale.ENGLISH).format(System.currentTimeMillis())
+                matchDay.text = weekday_name+",  "+day+" - "+month+" - "+year
+
+//                Log.d(TAG, responseBody.toString())
+//                Log.d(TAG, sortedJson.toString())
 
             }
             override fun onFailure(call: Call<Match>, t: Throwable) {
                 Log.e(TAG, "Not Found")
-                Log.e(TAG, retro.toString())
+                Log.e(TAG, t.toString())
             }
         })
-
-        matchDay.text = "today"
 
         return view
     }

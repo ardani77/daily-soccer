@@ -11,9 +11,11 @@ import android.widget.TextView
 import com.muhammadardani.dailysoccer.R
 import com.muhammadardani.dailysoccer.data.response.PremiereLeague
 import com.muhammadardani.dailysoccer.data.response.PremiereLeagueItem
+import com.muhammadardani.dailysoccer.data.response.StandingsLeague
+import com.muhammadardani.dailysoccer.data.response.StandingsLeagueItem
 
 
-class LeagueAdapter(var standingList: PremiereLeague, var context: Activity) : ArrayAdapter<PremiereLeagueItem>(context, R.layout.item_league, standingList) {
+class LeagueAdapter(var standingList: StandingsLeague, var context: Activity) : ArrayAdapter<StandingsLeagueItem>(context, R.layout.item_league, standingList) {
 //    override fun getItem(position: Int): Any {
 //        return standingList.get(position)
 //    }
@@ -48,8 +50,16 @@ class LeagueAdapter(var standingList: PremiereLeague, var context: Activity) : A
         total_kemenangan.text = konten.overall_w
         total_seri.text = konten.overall_d
         total_kekalahan.text = konten.overall_l
-        selisih_goal.text = konten.overall_gs + "-" + konten.overall_ga
+        selisih_goal.text = konten.overall_gs + " - " + konten.overall_ga
         total_poin.text = konten.points
+
+//        if (konten.comp_id == "1093"){
+//            val compName = "Bundesliga"
+//        }
+//        else (){
+//            konten.comp_id
+//        }
+
 
         return view
     }

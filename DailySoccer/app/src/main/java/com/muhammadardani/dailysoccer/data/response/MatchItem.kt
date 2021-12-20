@@ -3,7 +3,7 @@ package com.muhammadardani.dailysoccer.data.response
 data class MatchItem(
     val comp_id: String,
     val et_score: Any,
-    val events: List<Event>,
+//    val events: List<Event>,
     val formatted_date: String,
     val ft_score: String,
     val ht_score: String,

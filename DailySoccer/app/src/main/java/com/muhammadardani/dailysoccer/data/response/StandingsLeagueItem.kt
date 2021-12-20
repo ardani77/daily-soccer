@@ -1,6 +1,6 @@
 package com.muhammadardani.dailysoccer.data.response
 
-data class PremiereLeagueItem(
+data class StandingsLeagueItem(
     val away_d: String,
     val away_ga: String,
     val away_gp: String,
@@ -8,7 +8,7 @@ data class PremiereLeagueItem(
     val away_l: String,
     val away_w: String,
     val comp_group: Any,
-    var comp_id: String,
+    val comp_id: String,
     val country: String,
     val description: String,
     val gd: String,

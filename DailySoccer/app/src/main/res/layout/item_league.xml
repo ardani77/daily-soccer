@@ -12,60 +12,97 @@
 
         <TextView
             android:id="@+id/placement"
-            android:layout_width="wrap_content"
+            android:layout_width="25dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="TextView" />
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:gravity="center"
+            android:text="TextView"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/nameteam"
-            android:layout_width="wrap_content"
+            android:layout_width="125dp"
             android:layout_height="wrap_content"
-            android:layout_gravity="left"
-            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
             android:gravity="left"
-            android:text="TextView" />
+            android:text="TextView"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/match"
-            android:layout_width="wrap_content"
+            android:layout_width="15dp"
             android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
             android:layout_weight="1"
-            android:text="TextView" />
+            android:gravity="center"
+            android:text="TextView"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/win"
-            android:layout_width="wrap_content"
+            android:layout_width="15dp"
             android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
             android:layout_weight="1"
-            android:text="TextView" />
+            android:gravity="center"
+            android:text="TextView"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/draw"
-            android:layout_width="wrap_content"
+            android:layout_width="15dp"
             android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
             android:layout_weight="1"
-            android:text="TextView" />
+            android:gravity="center"
+            android:text="TextView"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/lose"
-            android:layout_width="wrap_content"
+            android:layout_width="15dp"
             android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
             android:layout_weight="1"
-            android:text="TextView" />
+            android:gravity="center"
+            android:text="TextView"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/gf_ga"
-            android:layout_width="wrap_content"
+            android:layout_width="40dp"
             android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
             android:layout_weight="1"
-            android:text="TextView" />
+            android:gravity="center"
+            android:text="TextView"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/point"
-            android:layout_width="wrap_content"
+            android:layout_width="15dp"
             android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
             android:layout_weight="1"
-            android:text="TextView" />
+            android:gravity="center"
+            android:text="TextView"
+            android:textSize="16sp" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

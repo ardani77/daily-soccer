@@ -5,4 +5,28 @@
     <string name="league">League</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="selected_item">Selected item:</string>
+    <string name="coming_soon">Coming Soon</string>
+
+    <string-array name="Languages">
+        <item>Austrian Football Bundesliga</item>
+        <item>Belgium UEFA Europa League Play-Offs</item>
+        <item>Czech First League</item>
+        <item>English Football League Championship</item>
+        <item>English Premier League</item>
+        <item>UEFA Europa League</item>
+        <item>UEFA Champions League</item>
+        <item>League 1</item>
+        <item>Bundesliga</item>
+        <item>Super League Greece 1</item>
+        <item>Eredivisie"</item>
+        <item>Serie A</item>
+        <item>Serie B</item>
+        <item>Primeira Liga</item>
+        <item>Russian Premier League</item>
+        <item>La Liga</item>
+        <item>Swiss Super League</item>
+        <item>Süper Lig</item>
+        <item>Ukrainian Premier League</item>
+    </string-array>
 </resources>
