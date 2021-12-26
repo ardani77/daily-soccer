@@ -1,1 +1,22 @@
-# daily-soccer
+# Daily Soccer
+An application for people to know soccer team playing schedule and the latest league standings.
+
+# Link to the app
+https://play.google.com/store/apps/details?id=com.muhammadardani.dailysoccer
+
+# Testers Profile
+1. Resa Fajar Sukma (CS student and Manchester United's fans)
+2. Zaidan Pratama Amanullah (CS student and FC Bayern Munich's fans)
+3. Fahrul Rahman Ashari (CS student and Manchester City's fans)
+
+Testing conducted on Friday, 24 December 2021 (Resa) and Saturday, 25 December 2021 (Zaidan and Fahrul)
+
+# Recording Links
+1.  (Resa Fajar Sukma)
+2.  (Zaidan Pratama)
+3.  (Fahrul Rahman Ashari)
+
+Subs link:
+1.  (Resa Fajar Sukma)
+2.  (Zaidan Pratama)
+3.  (Fahrul Rahman Ashari)
