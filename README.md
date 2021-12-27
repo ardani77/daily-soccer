@@ -6,7 +6,7 @@ https://play.google.com/store/apps/details?id=com.muhammadardani.dailysoccer
 
 # Testers Profile
 1. Resa Fajar Sukma (CS student and Manchester United's fans)
-2. Zaidan Pratama Amanullah (CS student and FC Bayern Munich's fans)
+2. Zaidan Pratama (CS student and FC Bayern Munich's fans)
 3. Fahrul Rahman Ashari (CS student and Manchester City's fans)
 
 Testing conducted on Friday, 24 December 2021 (Resa) and Saturday, 25 December 2021 (Zaidan and Fahrul)
