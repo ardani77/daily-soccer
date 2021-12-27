@@ -12,9 +12,9 @@ https://play.google.com/store/apps/details?id=com.muhammadardani.dailysoccer
 Testing conducted on Friday, 24 December 2021 (Resa) and Saturday, 25 December 2021 (Zaidan and Fahrul)
 
 # Recording Links
-1.  (Resa Fajar Sukma)
-2.  (Zaidan Pratama)
-3.  (Fahrul Rahman Ashari)
+1.  https://youtu.be/1Npbwf5UvgI (Resa Fajar Sukma)
+2.  https://youtu.be/VTtp_2zuqpY (Zaidan Pratama)
+3.  https://youtu.be/WYY5rDlmli4 (Fahrul Rahman Ashari)
 
 Subs link:
 1.  (Resa Fajar Sukma)
