@@ -1,0 +1,664 @@
+﻿1
+00:00:03,169 --> 00:00:09,029
+Selamat malam Mas Fahrul perkenalkan
+saya Muhammad Ardani dari mahasiswa
+
+2
+00:00:09,029 --> 00:00:14,130
+ilmu komputer Universitas Negeri Jakarta
+maksud tujuan kegiatan yang akan
+
+3
+00:00:14,130 --> 00:00:19,289
+dilakukan pada malam ini adalah user
+research terkait aplikasi yang telah
+
+4
+00:00:19,289 --> 00:00:26,480
+saya buat dan saya kembangkan yang sudah
+saya publish di Google Playstore
+
+5
+00:00:26,480 --> 00:00:31,368
+alur proses kegiatan dari awal sampai akhir yaitu
+
+6
+00:00:32,036 --> 00:00:38,216
+pertama-tama mas Fahrul diwawancarai oleh saya terkait aplikasi tersebut
+
+7
+00:00:40,928 --> 00:00:48,000
+dan dilanjutkan dengan menjalankan aplikasi yang akan saya berikan
+
+8
+00:00:49,189 --> 00:00:58,608
+pada saat menjalankan aplikasi tersebut
+Mas Fahrul diminta untuk melakukan share screen
+
+9
+00:01:00,000 --> 00:01:02,233
+baiklah mas fahrul
+
+10
+00:01:03,074 --> 00:01:11,280
+diperkenankan untuk memperkenalkan diri mulai dari nama, usia, pekerjaan, dan domisili
+
+11
+00:01:12,329 --> 00:01:19,560
+ya terima kasih saudara Ardani
+izin memperkenalkan diri nama saya Fahrul Rahman Ashari
+
+12
+00:01:19,560 --> 00:01:25,228
+umur 21 tahun sekarang masih jadi
+
+13
+00:01:25,228 --> 00:01:31,439
+mahasiswa domisili saya berada di Jakarta
+
+14
+00:01:31,439 --> 00:01:35,658
+kesibukan mas Fahrul saat ini sedang apa?
+
+15
+00:01:35,659 --> 00:01:41,090
+untuk kesibukan Saat ini saya sedang
+berkuliah di salah satu universitas di
+
+16
+00:01:41,090 --> 00:01:49,868
+Bogor dan menjalankan tugas akhir jadi untuk
+saat ini saya masih mencoba membuat tugas akhir
+
+17
+00:01:53,200 --> 00:01:59,079
+Sebelumnya Mas Fahrul Apakah seorang pecinta sepak bola?
+
+18
+00:01:59,358 --> 00:02:06,000
+ya, jadi untuk sepak bola saya suka bola dari saya kecil
+
+19
+00:02:06,000 --> 00:02:09,457
+karena dulu bapak saya sering nonton bola
+
+20
+00:02:09,549 --> 00:02:14,689
+dan saya itu diajak untuk
+mengikuti nonton jadi lama-kelamaan
+
+21
+00:02:14,689 --> 00:02:19,870
+awal-awal saya tidak suka sepak bola, tapi karena sering menonton
+
+22
+00:02:19,870 --> 00:02:27,362
+dan pertandingan-pertandingan yang saya tonton seru, akhirnya saya berubah pikiran terhadap sepak bola
+
+23
+00:02:28,209 --> 00:02:35,669
+Apakah ada bukti terkait mas Fahrul yang menyukai sepak bola?
+
+24
+00:02:35,669 --> 00:02:40,488
+sebenarnya kalau mau dilihat ada buktinya salah satunya karena
+
+25
+00:02:40,489 --> 00:02:44,909
+beberapa tahun yang lalu saya
+sempat dioperasi sampai dua kali kaki saya
+
+26
+00:02:44,909 --> 00:02:50,068
+itu penyebabnya karena sepakbola jadi
+saking cintanya saya dengan sepakbola
+
+27
+00:02:50,068 --> 00:03:00,680
+Walaupun kaki saya terasa sakit terus saya bermain lagi, terus sehabis itu sakit lagi. Itulah bukti sukanya saya dengan sepakbola sampai sebegitunya
+
+28
+00:03:04,759 --> 00:03:10,280
+Apa ada foto-foto mas Fahrul bermain sepak bola?
+
+29
+00:03:10,280 --> 00:03:18,060
+ini mungkin saya boleh share screen ya Ada di
+Galeri saya Ini salah satu foto saya saat
+
+30
+00:03:18,060 --> 00:03:22,489
+dulu SMA mengikuti ekskul sepakbola
+
+31
+00:03:27,860 --> 00:03:34,620
+nah ini dia foto saya sedang mengikuti suatu
+pertandingan sepakbola di kota
+
+32
+00:03:34,620 --> 00:03:43,798
+Alhamdulillah waktu itu juara 3 ini sebelum
+saya ini operasi ya jadi saya masih main bola
+
+33
+00:03:44,430 --> 00:03:46,681
+Baik, terima kasih mas fahrul
+
+34
+00:03:48,209 --> 00:03:56,250
+selanjutnya Apakah mas Fahrul mengikuti
+perkembangan liga sepakbola di dunia?
+
+35
+00:03:56,250 --> 00:04:02,480
+ya, saya mengikuti. Tapi beberapa aja Nggak
+semua liga.
+
+36
+00:04:02,480 --> 00:04:06,460
+Liga apa itu mas fahrul kalau boleh tahu
+
+37
+00:04:06,460 --> 00:04:14,975
+saya lebih
+mengikuti Liga Inggris ya karena Liga Inggris itu kompetitif sekali liganya.
+
+38
+00:04:14,975 --> 00:04:20,654
+Jadi pemain
+terbaik dari semuanya itu bergabung jajan duit matipun kebetulan muda
+
+39
+00:04:20,654 --> 00:04:35,019
+Jadi engga hanya satu tim yang menjadi dominansi gitu. Untuk liga lain, liga Italy, liga Spanyol ya tim itu-itu aja yang dominan.
+
+40
+00:04:35,019 --> 00:04:46,418
+Tapi kalau di liga Inggris kita bisa melihat tim-tim itu saking tidak stabilnya bisa dominasi di suatu musim, tapi dimusim selanjutnya bisa down.
+
+41
+00:04:46,418 --> 00:04:53,633
+Jadi saya mengikuti liga inggris karena kompetisinya sangat kompetitif.
+
+42
+00:04:53,633 --> 00:05:00,909
+Media apa yang biasanya mas fahrul gunakan untuk melihat jadwal pertandingan atau klasemen standing?
+
+43
+00:05:00,910 --> 00:05:06,709
+hmm, kalau saya bicara dulu sama
+sekarang ya, kalau dulu tuh saya masih
+
+44
+00:05:06,709 --> 00:05:12,800
+menggunakan media koran ya yang kecil
+itu jadi Saya menunggu keesokan harinya
+
+45
+00:05:12,800 --> 00:05:18,589
+saya baru dapat skornya "oh yang ini menang" jadi menggunakan koran yang dibeli ayah saya
+
+46
+00:05:18,589 --> 00:05:28,209
+saya baru tahu gitu. Sama saya menggunakan televisi yang ada acara berita olahraga
+
+47
+00:05:33,189 --> 00:05:39,930
+saya menggunakan aplikasi LINE ada
+official account yang membahas tentang sepakbola liga
+
+48
+00:05:39,930 --> 00:05:43,819
+Inggris jadi kalau saya mau melihat jadwal pertandingan
+
+49
+00:05:43,819 --> 00:05:49,399
+dan gol-gol yang terjadi pada pertandingan saya biasa menggunakan OA LINE
+
+50
+00:05:57,860 --> 00:06:07,100
+dari media yang mas Fahrul sebutkan tadi
+apa yang mas Fahrul sukai dari media tersebut?
+
+51
+00:06:07,279 --> 00:06:12,240
+mungkin saya berbicara tentang yang
+terakhir saja ya yang LINE
+
+52
+00:06:12,240 --> 00:06:24,229
+kalau yang di OA LINE itu saya suka beberapa beritanya itu yang memudahkan saya bisa mengetahui
+
+53
+00:06:26,083 --> 00:06:30,944
+Berita-berita terbaru yang saya tidak ketahui. Jadi yang tidak bisa saya dapatkan dimana itu dirangkum disana.
+
+54
+00:06:31,690 --> 00:06:34,468
+Jadi tidak ketinggalan
+
+55
+00:06:39,478 --> 00:06:46,560
+Tim yang sedang ada cedera atau tidak
+
+56
+00:06:46,560 --> 00:06:53,189
+Apa ada yang mas Fahrul tidak sukai dari media tersebut?
+
+57
+00:06:53,189 --> 00:07:03,810
+mungkin kalau tidak sukai saya ada di ini
+update-nya ya kadang agak kurang cepat.
+
+58
+00:07:03,810 --> 00:07:09,939
+Jadi kadang-kadang juga ada yang
+pertandingan sedang berjalan tapi update
+
+59
+00:07:09,939 --> 00:07:17,699
+golnya tuh paling beberapa menit setelahnya dan highlightnya itu cuplikan gol itu enggak semuanya.
+
+60
+00:07:17,699 --> 00:07:23,520
+misalkan suatu pertandingan ada 3-0 skornya tapi kadang-kadang cuma 1 doang
+
+61
+00:07:30,000 --> 00:07:38,880
+Apakah mas Fahrul pernah menggunakan aplikasi online untuk melihat jadwal pertandingan atau liga klasemen?
+
+62
+00:07:41,290 --> 00:07:46,689
+aplikasi online saya belum pernah paling
+
+63
+00:07:51,790 --> 00:07:57,160
+jika nantinya akan ada suatu aplikasi berita tentang sepak bola,
+
+64
+00:07:57,160 --> 00:08:01,689
+apa yang mas Fahrul harapkan dari aplikasi tersebut?
+
+65
+00:08:01,689 --> 00:08:10,089
+Mungkin ini ya ada reminder jadwal pertandingan. Kan kita kadang-kadang suka lupa tuh
+
+66
+00:08:10,120 --> 00:08:20,350
+di hari ini ada ini jam segini. Biasanya 15 menit atau 30 menit sebelumnya ada notifikasinya.
+
+67
+00:08:31,089 --> 00:08:40,759
+kan kalau misalkan udah babak pertama atau babak kedua
+kita udah kehilangan momen
+
+68
+00:08:40,759 --> 00:08:46,830
+Baik terima kasih Mas Fahrul
+selanjutnya mas Fahrul diminta untuk
+
+69
+00:08:46,830 --> 00:08:53,039
+share screen menjalankan aplikasi dari playstore
+pertama-tama saya akan menjelaskan
+
+70
+00:08:53,039 --> 00:08:58,039
+dailysoccer ini apa. Dailysoccer adalah aplikasi yang membuat
+
+71
+00:08:58,039 --> 00:09:03,240
+dan memudahkan kita untuk melihat jadwal
+pertandingan pada hari ini dan dapat
+
+72
+00:09:03,240 --> 00:09:07,659
+melihat update terbaru dari liga klasemen
+
+73
+00:09:07,659 --> 00:09:12,089
+dari liga yang mas Fahrul inginkan
+
+74
+00:09:12,960 --> 00:09:19,139
+paling untuk aplikasinya saya kirim lewat zoom chat
+
+75
+00:10:13,639 --> 00:10:23,129
+Iya mas Fahrul di Mohon untuk share
+screen saat menjalankan aplikasi
+
+76
+00:10:30,120 --> 00:10:34,269
+Oke sudah terlihat share screennya?
+
+77
+00:10:43,019 --> 00:10:51,090
+Pada tugas pertama mas Fahrul diminta untuk melihat
+
+78
+00:10:52,320 --> 00:10:57,750
+meches yaitu pertandingan yang akan dilaksanakan pada hari ini.
+
+79
+00:11:00,210 --> 00:11:06,029
+menu-menunya ada di sebelah kiri bawah
+
+80
+00:11:06,029 --> 00:11:13,709
+nah saat menjalankan tugas ini apakah mas Fahrul ada kendala?
+
+81
+00:11:14,701 --> 00:11:16,701
+Tidak. Lancar-lancar
+
+82
+00:11:20,040 --> 00:11:25,990
+Bagaimana informasi yang ditampilkan Apakah sudah memenuhi kebutuhan?
+
+83
+00:11:26,500 --> 00:11:33,730
+menurut saya sudah ya karena ada jam tayangnya
+
+84
+00:11:33,730 --> 00:11:41,200
+skornya dan nama lidahnya ada semuanya
+
+85
+00:11:44,769 --> 00:11:53,919
+Terkait tampilan apakah ada kendala mas Fahrul?
+
+86
+00:11:55,147 --> 00:11:57,147
+Untuk tampilan
+
+87
+00:11:59,049 --> 00:12:08,269
+eh cukup bagus ya, tapi mungkin saya ada sedikit
+kurang terlihat tulisan ini apa
+
+88
+00:12:08,269 --> 00:12:13,399
+liganya mungkin sepertinya yakni Belgium
+England mungkin bisa di bold seperti yang
+
+89
+00:12:18,126 --> 00:12:20,126
+Biar lebih enak dilihatnya
+
+90
+00:12:20,480 --> 00:12:25,889
+Kan untuk menjelaskan ini
+untuk menjelaskan apa yang sebelah
+
+91
+00:12:25,889 --> 00:12:32,870
+kirinya benderanya gitu kan liga apa. Mungkin seperti itu sih
+
+92
+00:12:34,038 --> 00:12:38,000
+Apakah ada masukan lain mas Fahrul?
+
+93
+00:12:38,778 --> 00:12:46,938
+sudah sudah tampilannya cukup menarik
+menurut saya. Karena informasinya cukup lengkap.
+
+94
+00:12:50,610 --> 00:12:58,409
+Selanjutnya mas Fahrul diminta untuk
+menjalankan tugas yang kedua yaitu
+
+95
+00:12:58,409 --> 00:13:02,737
+Melihat klasemen liga update terbaru saat ini
+
+96
+00:13:03,269 --> 00:13:16,889
+menu tersebut dapat dilihat dari
+sebelah kanan pojok bawah yaitu menu "league" silahkan ditekan mas Fahrul
+
+97
+00:13:21,179 --> 00:13:31,050
+dan Mas Fahrul dapat memilih Liga yang
+mas Fahrul sukai di dropdown paling atas
+
+98
+00:13:40,649 --> 00:13:46,123
+oh ini Championship salah. Saya mau ini
+sudah sudah
+
+99
+00:13:46,123 --> 00:13:54,370
+nah Bagaimana mas Fahrul Apakah terdapat kendaraan dari melaksanakan tugas ini?
+
+100
+00:13:54,370 --> 00:14:03,189
+hmm tidak, lancar untuk masuknya juga
+cepat tidak terlalu lag. Tidak ada lag disana.
+
+101
+00:14:06,039 --> 00:14:15,190
+Apakah informasi yang diberikan
+sudah memberikan informasi yang informatif mas Fahrul?
+
+102
+00:14:15,190 --> 00:14:20,778
+sudah menurut saya sudah ya karena udah
+lengkap seperti klasemen-klasemen
+
+103
+00:14:20,778 --> 00:14:33,100
+seperti umumnya ada mainnya ada jumlah
+menang, jumlah seri, jumlah kalah, dan ini ada
+
+104
+00:14:33,100 --> 00:14:42,580
+gol forward dan gol away nya
+memasukkan dan kemasukan ini sangat menarik ya kalau menurut saya
+
+105
+00:14:48,865 --> 00:14:54,840
+Apakah dari tampilan ada kendala mas Fahrul?
+
+106
+00:14:55,850 --> 00:15:03,919
+mungkin untuk tampilan tidak ada ya tapi
+mungkin saran dari saya untuk tadi pemilihan liganya
+
+107
+00:15:06,769 --> 00:15:12,730
+kalau bisa ada urut dari daftarnya gitu
+jadi kan ini ada EUFA Europa League
+
+108
+00:15:12,730 --> 00:15:17,559
+dibawah English Premier League mungkin
+ini bisa diurutkan sesuai abjad kita
+
+109
+00:15:17,789 --> 00:15:22,309
+jadi pertama dari a b c dan seterusnya
+
+110
+00:15:22,309 --> 00:15:27,589
+atau lebih urat dan gampang untuk searchingnya
+
+111
+00:15:31,340 --> 00:15:39,600
+selanjutnya mas Fahrul diminta untuk
+melihat UEFA Champions League
+
+112
+00:15:52,889 --> 00:15:58,289
+bagaimana menurut mas Fahrul sebaiknya?
+
+113
+00:15:58,440 --> 00:16:04,820
+Wah kalau menurut saya mungkin ini
+maksud dari yang sebelah kiri Itu
+
+114
+00:16:04,820 --> 00:16:12,650
+grupnya gitu mungkin ya satu itu semua untuk satu grup gitu ya?
+
+115
+00:16:12,679 --> 00:16:17,213
+atau nomor satu klasemen itu satu dari
+semuanya?
+
+116
+00:16:17,213 --> 00:16:25,100
+Iya, posisi satu dari setiap grup
+
+117
+00:16:25,730 --> 00:16:32,429
+menurut saya unik ya untuk penampilan
+seperti ini Tapi alangkah baiknya kalau
+
+118
+00:16:32,429 --> 00:16:40,139
+menurut saya lebih apabila orang lebih
+familiar untuk membuat kan klasemen
+
+119
+00:16:40,139 --> 00:16:48,110
+sesuai dengan sesuai dengan grupnya gitu
+jadi grup a, grup b, grup C tetap bisa jadi untuk
+
+120
+00:16:48,110 --> 00:16:53,840
+lebih memudahkan aja kan kalau misalkan kita lihat ini
+
+121
+00:16:53,840 --> 00:17:02,409
+kita nggak tahu nih PSG, Inter
+apakah dia satu grup atau tidak Gitu
+
+122
+00:17:02,409 --> 00:17:07,509
+Jadikan meskipun dia nomor satu terus nomor dua
+tapi kita nggak tahu tuh biar di
+
+123
+00:17:07,509 --> 00:17:12,538
+nomor 1 atau nomor 2 satu grup atau tidak. Buat memudahkan saja.
+
+124
+00:17:16,709 --> 00:17:26,789
+tapi untuk segi yang data klasemen cukup lengkap ya
+
+125
+00:17:30,538 --> 00:17:38,970
+dari secara keseluruhan Apakah ada saran
+atau fitur yang ingin Mas Fahrul tambahkan?
+
+126
+00:17:41,788 --> 00:17:49,019
+ini ya saya tadi di matches kan ada
+jadwalnya misalkan di England ini England
+
+127
+00:17:49,019 --> 00:17:55,829
+Football Championship
+Nah itu Kalau bisa sebelum main
+
+128
+00:17:55,829 --> 00:18:02,808
+ya tadi yang saya harapkan kalau misalkan dia
+main jam 8, mungkin 30 menit sebelumnya akan ada
+
+129
+00:18:02,808 --> 00:18:10,720
+notifikasi di handphone gitu bakalan ada
+laga West Brom vs Nottingham jam 8
+
+130
+00:18:10,720 --> 00:18:19,269
+agar kita yang download
+bakalan tidak ketinggalan dengan siaran langsung bolanya
+
+131
+00:18:22,148 --> 00:18:26,378
+dari tampilan cukup menarik cukup mudah untuk dibaca
+
+132
+00:18:26,980 --> 00:18:28,980
+Sudah bagus
+
+133
+00:18:30,398 --> 00:18:34,089
+baik Terima kasih Mas Fahrul telah share screen
+
+134
+00:18:34,089 --> 00:18:41,048
+Boleh ditutup share screennya
+
+135
+00:18:52,480 --> 00:18:58,440
+secara keseluruhan dari skala 1-7
+
+136
+00:18:59,659 --> 00:19:07,700
+mas Fahrul memberikan nilai berapa dari
+seberapa sulit atau mudahnya tugas yang saya berikan tadi
+
+137
+00:19:11,538 --> 00:19:12,413
+7,5 ya
+
+138
+00:19:12,413 --> 00:19:14,831
+dari 1-7 Mas
+
+139
+00:19:14,831 --> 00:19:21,349
+Oh dari 1-7 ya. 5.
+
+140
+00:19:24,109 --> 00:19:36,409
+untuk Saya suka dengan tampilannya
+warnanya juga menarik terus mudah dibaca
+
+141
+00:19:54,829 --> 00:20:02,410
+Tadi tulisannya itu kontras dengan background
+Jadi mudah dibaca menarik juga tapi
+
+142
+00:20:02,410 --> 00:20:09,400
+untuk mungkin minus nya ya masih
+bisa di Develop lagi tadi apa dan
+
+143
+00:20:09,400 --> 00:20:13,329
+Notif sebelum pertandingan pengingat di
+tengah kalau misalkan ada laga
+
+144
+00:20:13,329 --> 00:20:19,649
+dan juga mungkin bisa ditambahkan ada berita-berita dari
+
+145
+00:20:19,650 --> 00:20:24,269
+media sosial yang lain juga bisa di
+direct jadi bisa dilihat
+
+146
+00:20:24,269 --> 00:20:30,420
+misalkan dari Twitternya apa gitu
+
+147
+00:20:30,420 --> 00:20:36,970
+dan oh iya, dan untuk yang tadi di Match mungkin
+bisa kalau ada hasil Match ditambahkan ini
+
+148
+00:20:36,970 --> 00:20:46,380
+pencetak gol info gitu bisa
+ditambah mungkin kurang kurang itu aja sih untuk overall saya sudah suka
+
+149
+00:20:46,380 --> 00:20:54,570
+Baik terima kasih Mas Fahrul telah bersedia memenuhi undangan
+

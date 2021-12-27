@@ -1,0 +1,748 @@
+﻿1
+00:00:03,817 --> 00:00:05,817
+selamat malam, mas Zaidan
+
+2
+00:00:06,639 --> 00:00:11,050
+saya Muhammad Ardani dari mahasiswa ilmu komputer
+
+3
+00:00:11,050 --> 00:00:14,470
+Universitas Negeri Jakarta
+
+4
+00:00:14,470 --> 00:00:15,422
+ingin
+
+5
+00:00:15,422 --> 00:00:25,509
+mewawancarai mas Zaidan terkait dengan
+aplikasi yang telah saya buat dan kembangkan yang sudah dipublish di playstore yaitu Daily Soccer
+
+6
+00:00:25,509 --> 00:00:27,965
+ya, malam mas Ardani
+
+7
+00:00:28,899 --> 00:00:33,460
+Sebelumnya saya ingin menjelaskan alur
+proses kegiatan dari awal sampai akhir
+
+8
+00:00:33,460 --> 00:00:43,570
+yaitu pertama-tama saya akan
+wawancarai mas Zaidan terkait biodata diri dan
+
+9
+00:00:43,570 --> 00:00:52,239
+terkait aplikasi yang Nanti akan saya
+kenalkan kepada mas Zaidan dan dilanjutkan dengan
+
+10
+00:00:52,239 --> 00:01:00,514
+mas Zaidan menjalankan aplikasi tersebut di smartphone milik mas Zaidan
+
+11
+00:01:03,320 --> 00:01:09,049
+langsung saja kita masuk ke sesi wawancara
+
+12
+00:01:09,049 --> 00:01:15,228
+pertama-tama Saya ingin menanyakan kepada mas Zaidan
+
+13
+00:01:15,228 --> 00:01:18,886
+Nama lengkapnya mas Zaidan siapa ya
+
+14
+00:01:18,886 --> 00:01:20,872
+Oh nama lengkap saya Zaidan Pratama
+
+15
+00:01:20,872 --> 00:01:24,482
+sekarang kesibukannya lagi apa ya,
+mas Zaidan?
+
+16
+00:01:24,482 --> 00:01:41,118
+saya kuliah jurusan ilmu komputer di Universitas Negeri Jakarta
+dan kesibukannya kuliah juga lagi magang online jadi kesehariannya magang dan kuliah
+
+17
+00:01:41,118 --> 00:01:46,939
+berdomisili di Jakarta berarti, mas Zidan?
+
+18
+00:01:48,590 --> 00:01:52,609
+apakah mas Zaidan seorang pecinta sepakbola?
+
+19
+00:01:52,609 --> 00:01:55,219
+iya.
+
+20
+00:01:56,281 --> 00:01:57,679
+boleh
+
+21
+00:01:57,679 --> 00:02:02,085
+lihat buktinya enggak Mas kalau mas Zaidan
+seorang pecinta sepakbola
+
+22
+00:02:02,085 --> 00:02:03,352
+Oh iya ya
+
+23
+00:02:03,352 --> 00:02:04,270
+boleh-boleh bentar
+
+24
+00:02:04,270 --> 00:02:19,348
+ini saya buktiin dari ini saja ya. Saya follow akun-akun bola sih. Salah satunya saya follow saya suka Bayern Munich, jadi saya follow.
+
+25
+00:02:19,348 --> 00:02:22,579
+ini kelihatan belum?
+
+26
+00:02:22,579 --> 00:02:25,172
+FC Bayern Munich
+
+27
+00:02:25,172 --> 00:02:27,949
+Betul-betul. Ini sudah kelihatan belum si tadi?
+
+28
+00:02:35,614 --> 00:02:42,746
+Terus saya juga follow @433 ini akun berita bola
+
+29
+00:02:55,530 --> 00:03:03,159
+sisanya ya paling saya suka Liga
+Inggris karena ini ketat persaingannya
+
+30
+00:03:03,159 --> 00:03:07,329
+kalau timnya saya sebenarnya lebih ke bayern munich
+
+31
+00:03:07,330 --> 00:03:17,889
+di liga kurang ada perlawanan gitu
+jadi ya nonton liga premier aja gitu
+
+32
+00:03:17,889 --> 00:03:21,404
+apakah ada alasan khusus suka sepak bola?
+
+33
+00:03:26,409 --> 00:03:31,129
+nggak ada sih kayaknya cuman menurut saya sepakbola tuh mudah
+
+34
+00:03:31,129 --> 00:03:38,030
+menjangkau seluruh masyarakat itu bahkan
+ke masyarakat yang pokoknya dari bawah
+
+35
+00:03:38,030 --> 00:03:46,180
+sampai atas tuh semuanya bisa menjangkau
+sepakbola ini jadi nggak perlu ada eksklusif
+
+36
+00:03:46,180 --> 00:03:52,039
+permainannya Permainan tim jadi seru lah
+gitu dan kurang lebih bisa dimainin di
+
+37
+00:03:52,039 --> 00:03:55,163
+mana aja sih asal ada tempat sama bola
+gitukan
+
+38
+00:03:55,163 --> 00:04:00,030
+Oh ya menjangkau semua kalangan ya
+
+39
+00:04:05,719 --> 00:04:09,750
+Apakah mas Zaidan pernah mengikuti
+perkembangan salah satu liga sepakbola?
+
+40
+00:04:09,750 --> 00:04:11,195
+di dunia
+
+41
+00:04:11,195 --> 00:04:17,224
+Iya masih mengikuti, liga
+Inggris terutama sih Liga Inggris
+
+42
+00:04:17,224 --> 00:04:20,490
+Liga Inggris Premier League
+
+43
+00:04:20,490 --> 00:04:23,442
+betul
+
+44
+00:04:23,442 --> 00:04:31,030
+media yang biasa mas Zaidan gunakan untuk
+melihat jadwal pertandingan atau klasemen standing Apa?
+
+45
+00:04:31,030 --> 00:04:38,256
+itu dari Chrome
+sih Agak agak ribet juga soalnya harus buka inikan harus buka Chrome
+
+46
+00:04:38,256 --> 00:04:44,435
+kadang enggak selalu muncul ininya tabel utamanya gitu harus agak discroll gitu
+
+47
+00:04:44,435 --> 00:04:46,723
+oh dari browser gitu ya
+
+48
+00:04:46,723 --> 00:04:49,310
+ya dari browser
+
+49
+00:05:00,040 --> 00:05:04,935
+apakah mas Zaidan pernah menggunakan aplikasi
+online untuk melihat jadwal pertandingan?
+
+50
+00:05:04,935 --> 00:05:09,827
+Pernah-pernah. Untuk melihat jadwal pertandingan ...
+
+51
+00:05:10,050 --> 00:05:17,430
+pernah tapi bukan bola sih, american football
+download aplikasi NFL officialnya
+
+52
+00:05:17,430 --> 00:05:23,879
+kalau yang premier league belom pernah download aplikasinya
+
+53
+00:05:30,810 --> 00:05:42,269
+ada tidak yang mas Zaidan sukai dari aplikasi american football tersebut?
+
+54
+00:05:42,269 --> 00:05:54,329
+menu-menunya itu ada standing table nya
+di halaman utama terus berita transfer, terus berita cedera
+
+55
+00:05:54,329 --> 00:06:00,560
+tentulah ini apa skor pertandingan
+terbaru sama pokoknya berita-berita dan juga
+
+56
+00:06:00,560 --> 00:06:06,139
+ada kan di awal tuh ada ini kalau
+ga salah tuh milih tim favorit kan nanti
+
+57
+00:06:06,139 --> 00:06:12,340
+beritanya lebih kearah tim favorit
+
+58
+00:06:13,089 --> 00:06:19,359
+ada tidak yang mas Zaidan tidak sukai dari aplikasi tersebut?
+
+59
+00:06:21,340 --> 00:06:23,340
+tidak ada sih
+
+60
+00:06:23,860 --> 00:06:28,970
+kalau emang mau
+sya pengennya bisa nonton juga tuh
+
+61
+00:06:28,970 --> 00:06:34,220
+Lewat aplikasinya Cuman kan itu berbayar
+kan layanan berbayar emang emang Ada
+
+62
+00:06:34,220 --> 00:06:39,860
+lagi beda gitu saya sih inginnya sih bisa nonton
+gratis gitu cuman kan ga bisa karena
+
+63
+00:06:39,860 --> 00:06:45,500
+itu berbayar kalau emang itu bisa gratis
+saya ingin ada di aplikasi itu dan saya
+
+64
+00:06:45,500 --> 00:06:52,339
+yakin sih itu akan nyaman banget
+buat user kayak bahkan
+
+65
+00:06:52,339 --> 00:06:56,329
+bukan cuma buat aplikasi itu, buat aplikasi
+yang lain kayak Premier League juga
+
+66
+00:06:56,329 --> 00:07:02,850
+mungkin bisa ada fitur nonton itu keren
+cuma mungkin bakal menurunkan ini kali ya Daya
+
+67
+00:07:02,850 --> 00:07:07,800
+jam tayang nonton di ini di
+layanan TV nasional atau semacamnya gitu
+
+68
+00:07:07,800 --> 00:07:12,810
+layanan streaming jadi Mungkin emang
+enggak ada di aplikasinya untuk mencegah
+
+69
+00:07:12,810 --> 00:07:19,250
+itu cuma saya pengen ada disitu
+
+70
+00:07:19,610 --> 00:07:29,120
+misalkan kedepannya nanti akan ada
+suatu aplikasi berita tentang sepakbola, apa yang mas Zaidan harapkan?
+
+71
+00:07:29,120 --> 00:07:35,639
+Iya tentu sejenis sih maksudnya
+fungsi-fungsi yang sama yang saya
+
+72
+00:07:35,639 --> 00:07:41,360
+sebutin yang saya sukai tadi juga kurang lebih informatif
+
+73
+00:07:44,010 --> 00:07:46,010
+sama detail sih
+
+74
+00:07:47,240 --> 00:07:54,050
+harus mendetail gitu informasinya
+
+75
+00:07:54,050 --> 00:08:00,040
+nah selanjutnya mas Zaidan dimohon untuk
+
+76
+00:08:00,040 --> 00:08:04,949
+menginstal aplikasi dailysoccer
+yang akan saya berikan link lewat chat Zoom
+
+77
+00:08:04,949 --> 00:08:14,049
+Sebelumnya saya ingin menginformasikan
+dailysoccer adalah aplikasi yang membuat kita mudah dalam
+
+78
+00:08:14,050 --> 00:08:21,960
+melihat jadwal pertandingan hari ini dan melihat update terbaru dari liga klasemen yang mas Zaidan inginkan
+
+79
+00:08:26,670 --> 00:08:31,709
+link-nya aplikasinya saya kirim lewat chat Zoom ya
+
+80
+00:08:31,709 --> 00:08:37,598
+sebentar
+
+81
+00:09:21,909 --> 00:09:26,227
+ini sudah install tinggal di open
+
+82
+00:09:26,227 --> 00:09:32,379
+Oh ya benar silahkan dibuka
+
+83
+00:09:40,750 --> 00:09:47,799
+boleh ditunjukkan ke kamera mas Zaidan
+
+84
+00:09:57,610 --> 00:10:05,690
+selanjutnya saya ingin menjelaskan cara kerja aplikasi ini
+
+85
+00:10:11,490 --> 00:10:18,571
+ada menu meches di kiri bawah Silahkan ditekan mas Zaidan
+
+86
+00:10:18,571 --> 00:10:22,482
+ya udah tampilan pertamanya itu kan
+
+87
+00:10:22,482 --> 00:10:24,088
+Iya benar tampilan homenya
+
+88
+00:10:26,940 --> 00:10:33,059
+tampilan tersebut muncul jadwal pertandingan pada hari ini
+
+89
+00:10:33,059 --> 00:10:39,000
+dari seluruh Liga yang ada di aplikasi
+
+90
+00:10:59,688 --> 00:11:10,969
+sebelumnya apakah ada kendala terkait melaksanakan untuk melihat jadwal pertandingan hari ini?
+
+91
+00:11:11,928 --> 00:11:21,169
+Paling kalau kendala menurut saya ini sih nama liganya yang di
+
+92
+00:11:21,169 --> 00:11:27,928
+di atas itu kan ada europe sama
+UEFA liganya itu
+
+93
+00:11:27,928 --> 00:11:34,278
+kan tulisannya hitam terus background
+biru itu menurut saya tuh agak susah terbaca
+
+94
+00:11:34,278 --> 00:11:38,818
+kayak mungkin entah background nya
+diganti yang warna lebih soft biar itunya
+
+95
+00:11:38,818 --> 00:11:46,379
+kelihatan tahu ganti warna font gitu
+terus ini saya suka sih jamnya
+
+96
+00:11:46,379 --> 00:11:51,846
+jamnya udah dijadiin
+jam-jam 24jam format ya
+
+97
+00:11:51,846 --> 00:11:53,439
+Iya 24 jam
+
+98
+00:11:53,439 --> 00:11:56,190
+Ini udah ini belum
+
+99
+00:11:56,190 --> 00:12:04,139
+apa namanya sesuai jam disini atau masih jam di sana
+
+100
+00:12:08,399 --> 00:12:11,448
+dari sana belum
+
+101
+00:12:11,448 --> 00:12:15,960
+berarti tinggal
+ditambah atau dikurang aja ya
+
+102
+00:12:20,730 --> 00:12:27,450
+udah sih paling enggak ada kendala itu aja
+sisanya Oke tampilannya rapi
+
+103
+00:12:27,450 --> 00:12:35,100
+ga ada yang nabrak terus nama tim jelas, skor jelas, jam jelas
+
+104
+00:12:36,217 --> 00:12:38,217
+ada tanggal juga
+
+105
+00:12:38,217 --> 00:12:40,211
+oke sih menurut saya overall
+
+106
+00:12:40,590 --> 00:12:47,730
+Apakah informasi yang diberikan sudah memenuhi kebutuhan mas Zaidan?
+
+107
+00:12:47,730 --> 00:12:56,220
+ya cukup memenuhi
+cuman paling kalau ini ya kalau
+
+108
+00:12:56,220 --> 00:13:03,080
+kalau UEFA atau Champions League
+biasa ada agregat Tuh kan ya kalau misalkan lagi
+
+109
+00:13:03,080 --> 00:13:08,080
+main di semifinal nah ini ini belum ada. Enaknya ditampilin deh agregatnya
+
+110
+00:13:08,080 --> 00:13:15,190
+biar tahu gitu Tapi itu ini aja si itu
+saran pengembangan ke depan aja sih
+
+111
+00:13:15,759 --> 00:13:24,000
+Apakah ada saran-saran lain mas Zaidan terkait jadwal pertandingan?
+
+112
+00:13:26,440 --> 00:13:31,150
+cukup sih kalau buat ini jadwal
+
+113
+00:13:31,960 --> 00:13:44,478
+baik, selanjutnya mas Zaidan diminta untuk
+melanjutkan tugas berikutnya yaitu melihat klasemen liga update terbaru
+
+114
+00:13:48,318 --> 00:13:50,318
+menunya ada di kanan bawah
+
+115
+00:13:54,039 --> 00:14:01,369
+lalu muncul table klasemen update
+terbaru dan liganya bisa mas Zaidan pilih sendiri
+
+116
+00:14:08,269 --> 00:14:15,528
+silakan mas Zaidan pilih liga sesuai dengan kemauan mas Zaidan
+
+117
+00:14:17,574 --> 00:14:19,574
+Oh ini banyak ya liganya ...
+
+118
+00:14:32,453 --> 00:14:34,453
+oke, udah
+
+119
+00:14:37,369 --> 00:14:43,189
+untuk menjalankan tugas tersebut Apakah ada kedala, mas Zaidan?
+
+120
+00:14:45,649 --> 00:14:52,879
+enggak ada, lancar terus juga ada notifikasi kalau ngechat
+
+121
+00:15:02,639 --> 00:15:12,360
+selanjutnya Apakah informasi
+yang ditampilkan memberikan informasi yang informatif?
+
+122
+00:15:12,360 --> 00:15:17,799
+iya ini kurang lebih sama
+banget sama tabel yang biasa saya lihat
+
+123
+00:15:17,799 --> 00:15:22,829
+kalau misalkan saya cari ini table Liga Inggris
+
+124
+00:15:22,830 --> 00:15:32,440
+ada urutan terus ada nama, match, win, draw, lose,
+kegolan berapa, masukin berapa terakhir
+
+125
+00:15:32,440 --> 00:15:37,970
+poinnya gitu ini udah sama banget sama yang saya cari
+
+126
+00:15:45,308 --> 00:15:50,739
+untuk tampilannya apakah ada
+
+127
+00:15:50,909 --> 00:15:54,481
+kendala kepada mas Zaidan
+
+128
+00:15:54,481 --> 00:16:02,799
+Enggak ada-enggak ada aman ini semua aman lancar bisa di Scroll Terus ga ada yang nabrak
+
+129
+00:16:05,860 --> 00:16:09,549
+lancar lancar lancar enggak ada kendala
+
+130
+00:16:27,129 --> 00:16:33,560
+dari tim nih sebaiknya seperti apa yang
+mas Zaidan ingin
+
+131
+00:16:33,560 --> 00:16:43,959
+Oh iya ya ini sesuai grup seenaknya jadi grup 1, grup 2, grup 3, grup 4 gitu dibagi lagi
+
+132
+00:16:43,960 --> 00:16:49,549
+karena kan kalau dichampions league grup kan
+Nah kalau kayak gini Jadi nggak tahu
+
+133
+00:16:49,549 --> 00:16:54,339
+grup yang mana meskipun kita tahu posisi
+
+134
+00:16:54,669 --> 00:17:00,808
+enak per grup terus tabelnya sih sama cuma
+menjadi grupnya grup A grup B grup C gitu
+
+135
+00:17:00,808 --> 00:17:06,889
+gitu terus nanti dikasih tabel yang sama
+
+136
+00:17:10,696 --> 00:17:12,696
+selebihnya oke sih menurut saya
+
+137
+00:17:15,230 --> 00:17:21,763
+Apakah ada saran atau tanggapan lain terkait league?
+
+138
+00:17:23,298 --> 00:17:29,480
+untuk ini tadi doang sih tadi doang
+
+139
+00:17:29,480 --> 00:17:36,079
+Oh ini buat keseluruhan kali ya di
+
+140
+00:17:36,079 --> 00:17:39,740
+diposisinya itu kayaknya mesti
+
+141
+00:17:39,740 --> 00:17:45,599
+naik-naik satu atau turun satu waktu
+turun dua gitu kayak misalkan di Liga
+
+142
+00:17:45,599 --> 00:17:52,200
+Premier nih Iya habis main terus Kanada
+poinnya tuh terakhirnya mungkin dari
+
+143
+00:17:52,200 --> 00:17:58,779
+situ bisa dikasih kayak tambahin di
+sebelah kiri atas yang point Apa posisi
+
+144
+00:17:58,779 --> 00:18:04,210
+di yang tabel nomor-nomor posisi tabel itu
+jadi dikasih kayak dia tuh naik naik
+
+145
+00:18:04,210 --> 00:18:09,299
+naik satu peringkat untuk turun dua peringkat
+
+146
+00:18:09,299 --> 00:18:15,930
+baik-baik nanti akan saya kembangkan
+
+147
+00:18:16,109 --> 00:18:23,220
+selanjutnya juga saya ingin bertanya
+terkait fitur yang akan saya kembangkan yaitu
+
+148
+00:18:26,099 --> 00:18:33,930
+match sebelum hari ini dan match yang akan datang. Apakah
+diperlukan untuk diadakan atau tidak
+
+149
+00:18:33,930 --> 00:18:38,829
+oh boleh-boleh tuh match yang akan
+datang match akan datang boleh karena
+
+150
+00:18:38,829 --> 00:18:44,170
+kadang juga saya lupa gitu apa sih ini
+inian yang match selanjutnya yang seru
+
+151
+00:18:44,170 --> 00:18:50,009
+gitu jadi jadi kayaknya mesti diadain untuk liga=liga
+
+152
+00:18:50,009 --> 00:18:55,599
+mungkin ga semua liga kali ya karena kan kayak
+liga yang ini nih liga ukraina gitu
+
+153
+00:18:55,599 --> 00:19:01,250
+kayak kurang peminat kan menurut saya
+gitu cuman kalau misalkan Liga Inggris
+
+154
+00:19:01,250 --> 00:19:11,319
+itu kayaknya mesti di tampilin
+atau Liga Champions yang pasti itu
+
+155
+00:19:17,404 --> 00:19:19,404
+Bauk, secara keseluruhan
+
+156
+00:19:22,536 --> 00:19:24,536
+dari skala 1-7
+
+157
+00:19:24,759 --> 00:19:33,700
+mas Zaidan kira-kira memberi nilai
+berapa dari seberapa sulit atau mudah aplikasi ini digunakan
+
+158
+00:19:33,700 --> 00:19:39,970
+eh seberapa mudahnya saya milih 5 sih
+karena gampang digunain cuman lihat-lihat
+
+159
+00:19:39,970 --> 00:19:45,890
+baca-baca gitu kalau buat yang biasa
+baca sending table kayaknya enggak
+
+160
+00:19:45,890 --> 00:19:50,750
+terlalu pengaruh sih maksudnya familiar
+familiar terus juga lihat matchesnya juga
+
+161
+00:19:50,750 --> 00:19:55,029
+kayak biasa lihat di Google Chrome juga
+
+162
+00:19:55,029 --> 00:20:01,730
+sama ini Paling ditambahin yang ngegolin
+nah boleh tuh ditampilkan matches
+
+163
+00:20:01,730 --> 00:20:09,599
+jadi dibawahnya tambahin yang ngegolin siapa
+menit berapa itu bagus gitu jadi kayak
+
+164
+00:20:09,599 --> 00:20:13,639
+beneran saya cari di Google chrome
+
+165
+00:20:13,640 --> 00:20:20,169
+Nanti akan saya kembangkan lagi
+
+166
+00:20:21,659 --> 00:20:30,898
+terima kasih kepada mas Zaidan telah
+memenuhi undangan yang saya kirimkan
+
+167
+00:20:30,898 --> 00:20:43,678
+untuk wawancara malam ini
+sebelumnya Apabila ada kesalahan dan kekurangan saya memohon maaf
+
+168
+00:20:45,868 --> 00:20:53,189
+terima kasih kepada mas Zaidan telah dapat datang malam ini
+
+169
+00:20:55,290 --> 00:20:57,290
+Oke, sama-sama
+

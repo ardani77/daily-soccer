@@ -1,0 +1,661 @@
+﻿1
+00:00:02,689 --> 00:00:09,620
+selamat malam saudara Resa, saya Muhammad Ardani dari Daily Soccer
+
+2
+00:00:09,620 --> 00:00:14,514
+Maksud tujuan saya mengundang saudara Resa untuk
+
+3
+00:00:15,439 --> 00:00:20,189
+menginterview saudara Resa menggunakan
+aplikasi yang telah saya buat dan saya
+
+4
+00:00:20,189 --> 00:00:29,359
+publish di playstore yaitu Daily Soccer.
+sebelumnya saya akan menjelaskan alur kegiatan pada malam ini yaitu
+
+5
+00:00:29,359 --> 00:00:36,410
+saya mewawancarai Mas Resa dan dilanjutkan dengan
+
+6
+00:00:37,399 --> 00:00:42,469
+mencoba menjalankan aplikasi tersebut dari playstore
+
+7
+00:00:42,469 --> 00:00:47,100
+Dan untuk hal itu, mas Resa
+
+8
+00:00:47,780 --> 00:00:54,360
+Dimohon untuk melakukan share screen pada saat menjalankan aplikasi tersebut
+
+9
+00:00:56,506 --> 00:00:58,506
+Oke
+
+10
+00:00:58,688 --> 00:01:01,680
+Masuk ke sesi wawancara
+
+11
+00:01:01,979 --> 00:01:08,519
+pertama-tama Saya ingin bertanya tentang biodata mas Resa
+
+12
+00:01:08,519 --> 00:01:15,449
+mas Resa dipersilahkan untuk memperkenalkan diri
+
+13
+00:01:15,449 --> 00:01:23,236
+Nama saya Resa Fajar Sukma dari prodi Ilmu Komputer
+
+14
+00:01:24,179 --> 00:01:26,179
+Domisili dimana mas Resa
+
+15
+00:01:26,640 --> 00:01:29,223
+domisili dimana Mas Resa
+
+16
+00:01:29,223 --> 00:01:35,700
+saya domisili
+di Jakarta Timur lebih tepatnya di Cibubur
+
+17
+00:01:41,700 --> 00:01:48,569
+Mas Resa Apakah seorang pecinta sepakbola?
+
+18
+00:01:50,250 --> 00:01:57,480
+Kebetulan iya. Saya suka mengikuti beberapa pertandingan sepak bola
+
+19
+00:01:58,469 --> 00:02:05,740
+Apakah mas Resa mengikuti berita kabar
+terbaru terkait klasemen liga sepakbola?
+
+20
+00:02:05,740 --> 00:02:11,598
+Iya. Yang saya ikuti itu EPL
+
+21
+00:02:13,489 --> 00:02:15,489
+English Premier League
+
+22
+00:02:18,878 --> 00:02:23,949
+Media apa yang biasa Mas Resa gunakan untuk
+
+23
+00:02:23,949 --> 00:02:30,128
+melihat klasemen tersebut atau melihat jadwal pertandingan
+
+24
+00:02:32,199 --> 00:02:39,219
+browser engine atau juga kadang kalau sedang bermain bersama teman,
+
+25
+00:02:39,219 --> 00:02:44,439
+lewat channel channel TV olahraga gitu
+
+26
+00:02:45,280 --> 00:02:52,019
+Apakah Mas Resa pernah menggunakan aplikasi untuk melihat hal tersebut?
+
+27
+00:02:53,009 --> 00:03:04,484
+selama ini belum pernah cuman
+ngegunain gitu doang apa browser engine sama tadi channel-channel TV
+
+28
+00:03:14,120 --> 00:03:20,099
+nah disini Saya ingin menjelaskan
+tentang aplikasi dailysoccer
+
+29
+00:03:20,099 --> 00:03:25,409
+Daily Soccer adalah aplikasi yang membantu
+kita untuk melihat jadwal pertandingan
+
+30
+00:03:25,409 --> 00:03:28,939
+sepakbola apa saja yang ada pada hari ini
+
+31
+00:03:28,939 --> 00:03:36,931
+dan update klasemen terbaru pada hari ini juga
+
+32
+00:03:42,049 --> 00:03:44,290
+historynya ada tidak?
+
+33
+00:03:44,290 --> 00:03:51,560
+kalau untuk yang klasemen
+kan update yang terakhir Tahun 2021/2022
+
+34
+00:03:51,560 --> 00:03:58,223
+dan untuk pertandingan nanti bisa
+
+35
+00:03:58,370 --> 00:04:03,680
+dicek pada saat menjalankan aplikasi tersebut.
+
+36
+00:04:14,209 --> 00:04:25,610
+dan mas Resa untuk menginstal
+aplikasi tersebut di ponsel Maksudnya
+
+37
+00:04:27,860 --> 00:04:35,810
+saya sharescreen atau nggak mas sekarang?
+
+38
+00:04:45,384 --> 00:04:47,384
+Tadi dari sini
+
+39
+00:04:47,384 --> 00:04:49,384
+Terlihat tidak?
+
+40
+00:04:49,384 --> 00:04:51,384
+iya terlihat
+
+41
+00:04:52,834 --> 00:04:54,834
+Klik yang ini ya?
+
+42
+00:04:58,372 --> 00:05:00,372
+Iya install
+
+43
+00:05:32,670 --> 00:05:42,792
+Tadi terkait dari membuka aplikasi sampai ke home apakah ada kendala?
+
+44
+00:05:44,475 --> 00:05:46,188
+Tidak
+
+45
+00:05:47,209 --> 00:05:52,279
+tadi tampilan awalnya keren sih ada
+
+46
+00:05:52,279 --> 00:06:01,519
+Oh makasih mas Resa dan selanjutnya
+mas Resa diminta untuk melanjutkan tugas selanjutnya yaitu
+
+47
+00:06:01,519 --> 00:06:07,013
+Melihat pertandingan pada hari ini.
+
+48
+00:06:07,819 --> 00:06:15,639
+dapat dilihat pada Matches di menu paling kiri bawah
+
+49
+00:06:15,639 --> 00:06:20,370
+iya tampilan home
+
+50
+00:06:20,370 --> 00:06:23,861
+Apakah informasi yang diberikan
+
+51
+00:06:24,839 --> 00:06:28,642
+sudah memenuhi kebutuhan Mas Resa untuk
+
+52
+00:06:28,642 --> 00:06:39,128
+eh ini apa ya yang di atas tuh kan ada logo Champions League terus Europe strip. Itu yang paling kanannya apa?
+
+53
+00:06:39,129 --> 00:06:44,069
+Yang kanan itu nama liganya, mas Resa
+
+54
+00:06:44,639 --> 00:06:51,189
+ah jadi itu bukan kayak gitu ya, menurut saya
+
+55
+00:06:51,189 --> 00:06:55,500
+yang untuk Inter Milan yang ini, ini bisa diklik tidak?
+
+56
+00:06:55,500 --> 00:07:08,903
+oh iya nggak bisa untuk detail
+pertandingan nih masih belum bisa diklik. Mungkin bisa untuk masukan kedepannya
+
+57
+00:07:17,870 --> 00:07:29,478
+ini kayaknya yang kata Intermilan sama
+taftar Donetsk skornya kayak condong terlalu ke kanan ya. Apa memang begitu?
+
+58
+00:07:29,478 --> 00:07:37,038
+Oh ya saya settingnya seperti itu. Apakah kurang kekiri, mas Resa?
+
+59
+00:07:37,620 --> 00:07:45,240
+Kayak lebih condong terlalu yang kanan
+tapi untuk Manchester City dia malah kayak condong ke kiri...
+
+60
+00:07:47,598 --> 00:07:50,846
+Mungkin lebih baik
+
+61
+00:07:51,089 --> 00:07:57,569
+jarak antar kanan kirinya itu sama biar tidak seperti ini
+
+62
+00:07:57,569 --> 00:08:06,149
+oh ya ya soalnya Coba bayangin kalau ada
+nama klub yang lebih panjang daripada
+
+63
+00:08:06,149 --> 00:08:12,899
+daripada yang ada di sini itu bisa
+berkemungkinan nabrak skornya Enggak?
+
+64
+00:08:12,899 --> 00:08:19,439
+dia nanti tulisannya Turun ke bawah
+
+65
+00:08:19,439 --> 00:08:29,110
+oh berarti tidak menabrak? saya kira tadi bakal nabrak gitu
+
+66
+00:08:31,834 --> 00:08:34,553
+discrollnya sih bagus, tidak ada patah
+
+67
+00:08:34,729 --> 00:08:41,149
+terus juga tapi sayangnya nggak bisa melihat detail mungkin
+
+68
+00:08:45,992 --> 00:08:56,845
+untuk waktu atau nama negara yang menyelenggarakan Apakah ada kendala atau kekurangan, mas Resa?
+
+69
+00:08:58,759 --> 00:09:04,009
+Menurut saya tampilan disini sudah konsisten. Terus logo-logo
+
+70
+00:09:04,009 --> 00:09:09,679
+dan penyelenggara sama nama liganya
+
+71
+00:09:09,870 --> 00:09:17,778
+Ya udah bagus udah sesuai enggak ada yang
+apa, enggak ada yang terlalu kayak aneh gitu
+
+72
+00:09:20,720 --> 00:09:29,600
+Chezt Republik dia terlalu mepet
+mungkin bisa agak di siniin dikit
+
+73
+00:09:29,600 --> 00:09:34,700
+tapi kalau sini tabrak sama yang kanan
+
+74
+00:09:34,970 --> 00:09:43,100
+atau mungkin republiknya bisa dipindahin kebawah biar engga keliatan kayak terlalu mepet gitu.
+
+75
+00:09:46,519 --> 00:09:54,151
+ada ada lagi masukannya, mas Resa. Terkait
+menu Matches ini
+
+76
+00:09:54,151 --> 00:09:57,320
+udah, sih. Kayaknya itu aja
+
+77
+00:10:02,750 --> 00:10:13,409
+Mas Resa diminta untuk melanjutkan ke
+tugas berikutnya yaitu melihat Klasemen saat ini
+
+78
+00:10:13,806 --> 00:10:15,806
+yang ada dimana?
+
+79
+00:10:16,667 --> 00:10:25,160
+Mas Resa bisa menekan menu Liga yang sebelah kanan paling bawah
+
+80
+00:10:28,619 --> 00:10:31,413
+lalu muncul klasemen liga
+
+81
+00:10:31,938 --> 00:10:37,698
+yang Mas Resa inginkan. Misalkan Mas Resa kan pecinta
+
+82
+00:10:37,698 --> 00:10:46,459
+English Premier League tadi iya Reza
+bisa menekan tombol yang di atas
+
+83
+00:10:46,549 --> 00:10:56,188
+yang dropdown itu lalu pilih
+
+84
+00:11:00,860 --> 00:11:07,220
+oh iya, benar. Sesuai urutan yang terakhir kali saya lihat.
+
+85
+00:11:10,287 --> 00:11:12,287
+terkait
+
+86
+00:11:12,409 --> 00:11:19,569
+klasemen Liga ini apakah ada kendala
+
+87
+00:11:26,679 --> 00:11:32,189
+saya kurang ngerti dari Artinya ini sih M, W, D, L
+
+88
+00:11:32,190 --> 00:11:37,289
+GF-GA, Kalau P mungkin poin ya, saya bisa
+
+89
+00:11:37,289 --> 00:11:42,209
+tetapi itu sebelah kiri juga p 1-20
+
+90
+00:11:42,539 --> 00:11:48,088
+ohya ini disini maksudnya placement
+
+91
+00:11:48,089 --> 00:11:56,019
+posisi dari tim. Misalkan Manchester City
+posisi pertama dan M ini "match" jumlah
+
+92
+00:11:56,019 --> 00:12:02,069
+pertandingan yang telah dilaksanakan. W itu "win", D itu "draw"
+
+93
+00:12:06,149 --> 00:12:15,179
+GF itu gol forward gol yang dimasukkan ke lawan dan GA itu gol away
+yang kebobolan
+
+94
+00:12:15,179 --> 00:12:21,359
+dan yang terakhir yaitu klasemen poin
+
+95
+00:12:21,360 --> 00:12:29,459
+jumlah kemenangan, kalahan, dan draw itu poinnya jadi 44
+
+96
+00:12:29,459 --> 00:12:32,929
+oh, seperti itu.
+
+97
+00:12:36,120 --> 00:12:38,828
+mungkin ada masukan dari saya Mas
+
+98
+00:12:38,828 --> 00:12:40,399
+Iya boleh
+
+99
+00:12:40,399 --> 00:12:55,559
+jangan ada 2P. Satunya diganti jadi post
+atau yang satunya diganti jadi poin gitu kalau berkemungkinan bisa diganti
+
+100
+00:12:55,559 --> 00:13:01,637
+Jadi yang P ini yang kalau bisa diganti
+
+101
+00:13:01,637 --> 00:13:05,850
+Iya karena ada dua P tadi saya rada bingung
+
+102
+00:13:10,268 --> 00:13:14,272
+untuk tampilannya
+
+103
+00:13:14,830 --> 00:13:24,789
+Menurut saya sudah rapi sudah seperti yang saya
+lihat di website yang biasa saya lihat
+
+104
+00:13:24,789 --> 00:13:26,696
+sudah teratur
+
+105
+00:13:28,600 --> 00:13:36,708
+urutannya tentang positioningnya
+Oke sama ini juga bisa dipencet
+
+106
+00:13:36,708 --> 00:13:46,330
+paling ini nih, nih kayak dropdownnya
+kayak polos banget, mungkin bisa digimanain supaya lebih menarik
+
+107
+00:13:46,330 --> 00:13:51,850
+paling rencana kedepannya saya ingin menambahkan
+
+108
+00:13:51,850 --> 00:14:02,588
+logo liganya sih dibelah kirinya jadi agak
+lebih besar dan lebih enak dipandang
+
+109
+00:14:08,448 --> 00:14:11,197
+Boleh saya pecat yang lain Mas?
+
+110
+00:14:11,197 --> 00:14:14,389
+boleh-boleh silahkan
+
+111
+00:14:30,659 --> 00:14:34,189
+ini memang sama apa gimana mas? tadi kayaknya beda-beda
+
+112
+00:14:34,190 --> 00:14:36,838
+yang mana? Yang ini?
+
+113
+00:14:36,838 --> 00:14:39,563
+dua-duanya kan sama itu kiri kanan
+
+114
+00:14:39,563 --> 00:14:46,159
+Oh ya ini soalnya bukan dari negara
+
+115
+00:14:47,360 --> 00:14:53,058
+logonya jadi ngikutin logo liganya ya?
+
+116
+00:14:55,119 --> 00:15:00,579
+oh ini untuk P yang sebelah kirinya rada aneh mas?
+
+117
+00:15:06,154 --> 00:15:07,629
+ini karena masih fase grup
+
+118
+00:15:07,629 --> 00:15:12,558
+sebenarnya mereka beda-beda grup ada
+grup A group B group C sampai grup D
+
+119
+00:15:17,515 --> 00:15:20,389
+nah per-grup itu kan ada placementnya
+
+120
+00:15:20,389 --> 00:15:22,089
+masing-masing juga
+
+121
+00:15:23,609 --> 00:15:30,519
+nah misalkan Monaco posisi pertama dari grupnya Monaco
+
+122
+00:15:40,298 --> 00:15:48,048
+sekedar Kalau saran karena itu dia ini
+masih itu yang tadi mas sebut mendingan
+
+123
+00:15:48,048 --> 00:15:55,730
+di sebelah kirinya kasihin itu kan satu
+tuh Kek 1-1 1-2 1-3 kayak gitu aja
+
+124
+00:15:56,299 --> 00:16:01,528
+biar enggak terlalu kayak sama semua
+gini kan kalau sama semoga ini jadi
+
+125
+00:16:01,528 --> 00:16:07,490
+harus itung tuh Galatasaray ke berapa ya
+
+126
+00:16:07,490 --> 00:16:15,948
+Jadi apa mungkin sertakan Nama grupnya
+
+127
+00:16:15,948 --> 00:16:26,299
+supaya engga ngitung satu-satu kan capek nih
+misalkan nyampe ... harus itung lagi
+
+128
+00:16:36,169 --> 00:16:44,299
+dari ketiga tugas tersebut Apakah ada kendala dari mas Resa?
+
+129
+00:16:44,915 --> 00:16:46,759
+tidak
+
+130
+00:16:46,759 --> 00:16:52,879
+berjalan dengan baik. Bahkan menu select tadi dropdown
+
+131
+00:16:52,879 --> 00:16:55,335
+langsung berubah
+
+132
+00:16:56,440 --> 00:17:00,460
+setelah ditekan langsung berubah ya
+
+133
+00:17:08,856 --> 00:17:10,838
+Baik, paling
+
+134
+00:17:10,838 --> 00:17:16,059
+itu aja dari fitur dailysoccer, sebenarnya ada
+
+135
+00:17:16,059 --> 00:17:25,390
+fitur yang sedang saya kembangkan yaitu
+LiveScore masih belum dapat ditampilkan
+
+136
+00:17:25,390 --> 00:17:27,939
+tapi bisa diklik ga mas?
+
+137
+00:17:27,939 --> 00:17:33,550
+oh bisa, bisa diklik
+
+138
+00:17:33,789 --> 00:17:41,259
+mungkin belum bisa dijalankan karena berbagai kendala
+
+139
+00:17:45,279 --> 00:17:49,960
+skala satu sampai tujuh kira-kira mas resa
+
+140
+00:17:49,960 --> 00:17:53,001
+memberikan nilai berapa?
+
+141
+00:17:53,001 --> 00:17:55,530
+secara keseluruhan
+
+142
+00:17:55,930 --> 00:18:01,990
+dari seberapa sulit atau mudah tugas tersebut dilaksanakan
+
+143
+00:18:04,029 --> 00:18:10,730
+gampangnya saya mencoba aplikasi ini sih
+
+144
+00:18:11,322 --> 00:18:13,322
+6,5
+
+145
+00:18:14,539 --> 00:18:23,240
+6,5 Andaikan ada LiveScore ini udah
+jalan mungkin 7 karena Emang bagus
+
+146
+00:18:23,240 --> 00:18:29,690
+Enggak ada apa, enggak ada kendala
+
+147
+00:18:29,690 --> 00:18:43,970
+Oh ya terima kasih kepada saudara Resa
+telah menerima undangan saya interview malam ini. Semoga mas Resa
+
+148
+00:18:45,559 --> 00:18:51,769
+dapat dimudahkan dengan adanya aplikasi ini
+
+149
+00:18:51,769 --> 00:18:55,910
+Terima kasih atas pengembangan aplikasinya
+
+150
+00:19:01,009 --> 00:19:07,269
+makin mempermudah saya lagi ya
+
+151
+00:19:07,269 --> 00:19:14,069
+supaya tidak buka laptop atau buka Google Chrome
+jadi tinggal sekali klik bisa melihat apa yang saya butuhkan
+
+152
+00:19:14,069 --> 00:19:19,529
+Oh ya tadi itu untuk halaman yang detail
+
+153
+00:19:21,599 --> 00:19:25,480
+diperbaiki lagi biar saya bisa melihat
+lebih detail tentang apa yang saya
+
+154
+00:19:25,480 --> 00:19:27,051
+ingin cari gitu
+
+155
+00:19:27,051 --> 00:19:30,796
+Oh iya ya nanti akan saya kembangkan
+
+156
+00:19:30,796 --> 00:19:37,799
+baik Terima kasih saudara Resa. Mohon maaf apabila ada kekurangan.
+
